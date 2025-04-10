@@ -1,0 +1,2 @@
+Prefix plugins/KeepRemove/example/
+Plugin KeepRemove inputfile parameters.txt outputfile output
